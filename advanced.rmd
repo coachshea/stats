@@ -1,0 +1,18 @@
+--- 
+title: "Egyptian vs. Babylonian Mathematics"
+subtitle: "MAT450: History of Math Education"
+author: "John Shea"
+date: "`r format(Sys.time(), '%D')`"
+fontsize: 12pt
+margin: 1in
+output: html_document
+link-citations: yes
+---
+
+# Advanced
+
+## Simple Linear Regression
+
+## Multiple Linear Regression
+
+## Binomial Regression

@@ -1,0 +1,28 @@
+--- 
+title: "Egyptian vs. Babylonian Mathematics"
+subtitle: "MAT450: History of Math Education"
+author: "John Shea"
+date: "`r format(Sys.time(), '%D')`"
+fontsize: 12pt
+margin: 1in
+output: html_document
+link-citations: yes
+---
+
+# Bivariate
+
+## T-test
+
+## Anova
+
+## Chi-Square
+
+## Covariate
+
+## Correlation
+
+## Z score
+
+## t score
+
+## Standard Error of the Mean
